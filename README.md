@@ -1,3 +1,4 @@
+![logo](https://github.com/KARANjaiswal25/KARANjaiswal25/blob/main/Blue%20Pink%20Gradient%20Fashion%20Banner.png)
 <h1 align="center">Hi 👋, I'm Karan Jaiswal</h1>
 <h3 align="center">A passionate 3d architecture.</h3>
 
